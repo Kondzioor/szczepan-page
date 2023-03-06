@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <h1>psychoterapia psyhodynamiczna</h1>
+        <h1>psychoterapia psychodynamiczna</h1>
         <h2>Oknem do normalnego życia</h2>
     </div>
 </template>

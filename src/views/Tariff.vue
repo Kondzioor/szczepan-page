@@ -22,7 +22,6 @@ export default {
     padding: 15px;
     box-shadow: 0 0 15px #ddd;
     border-radius: 5px;
-
 }
 a{
  margin: 20px;

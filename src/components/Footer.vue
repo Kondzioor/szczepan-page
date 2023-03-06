@@ -15,7 +15,7 @@
                 <a href="/contact">Kontakt</a>
             </li>
         </ul>
-        <p class="copyright">Gabinet wsparcia psychologicznego Daniel Szczepanek @ 2022 v1.0 by Konrad Szatanek</p>
+        <p class="copyright">Gabinet wsparcia psychologicznego Daniel Szczepanek @ 2022 v1.0 by <a href="http://www.rajskieziolko.pl">Rajskie Ziółko</a></p>
     </section>
 </template>
 <script>
